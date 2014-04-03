@@ -5,17 +5,18 @@ it smells like up dog.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEADs
+<<<<<<< HEAD
+
 =======
 HI.
 
 Knock Knock
 <<<<<<< HEAD
->>>>>>> FETCH_HEAD
+
 =======
 
 abcdefghijklmnopqrstuvwxyz
->>>>>>> FETCH_HEAD
+
 =======
 HI.
 
@@ -24,8 +25,10 @@ Knock Knock
 abcdefghijklmnopqrstuvwxyz
 
 abcdefghijklmnopqrstuvwxyz who?
->>>>>>> FETCH_HEAD
+
 =======
+=======
+>>>>>>> FETCH_HEAD
 HI.
 
 Knock Knock
@@ -35,5 +38,8 @@ abcdefghijklmnopqrstuvwxyz
 abcdefghijklmnopqrstuvwxyz who? Jerome
 
 Ravi
+<<<<<<< HEAD
 >>>>>>> FETCH_HEAD
 asfa;klsfjas;kfj sammy
+=======
+>>>>>>> FETCH_HEAD
